@@ -1,4 +1,4 @@
-# Practica de desarrollo web
+# Repositorio personal...
 
 # 💫 About Me:
 Estudiando ingeniería de software y aprendiendo desarrollo web
