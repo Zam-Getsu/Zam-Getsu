@@ -1,6 +1,4 @@
-# Repositorio personal...
-
-# 💫 About Me:
+## 💫 About Me:
 Estudiando ingeniería de software y aprendiendo desarrollo web
 
 
