@@ -1,7 +1,5 @@
 ## 💫 About Me:
-De Ecuador
-Estudiando ingeniería de software
-Arendiendo desarrollo web
+De Ecuador - Estudiando ingeniería de software - Arendiendo desarrollo web
 
 
 ## 🌐 Socials:
